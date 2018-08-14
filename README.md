@@ -1,4 +1,4 @@
-# 电子藏经阁项目
+# 电子藏经阁项目Digitalized Buddism 
 本项目用于搭建电子版的一乘藏经阁，如果技术ok，希望能用于所有大藏经的传承。
 
 由于需要了解的知识较多，所以本项目还处于研究阶段。可参考的一篇公众号推文：<https://mp.weixin.qq.com/s/TPV8W_S8rmh4rA8I270aog> 
