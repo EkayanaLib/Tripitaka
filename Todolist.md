@@ -1,6 +1,6 @@
 # To Do List
 
-- [ ] Translate the existing article into english so that other well studed friends can support this project.
+- [x] Translate the existing article into english so that other well studed friends can support this project.
 - [ ] Verify the possibility of using Block Chain to store buddism data.
 
 
