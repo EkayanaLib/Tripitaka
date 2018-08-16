@@ -68,7 +68,7 @@ If you are interested in building this project together, please feel free to con
 
 ------
 
-![建模v0.1](assets/建模v0.1.png)
+![建模v0.2](assets/建模v0.2.png)
 
 
 
